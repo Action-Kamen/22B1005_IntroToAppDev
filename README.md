@@ -1,16 +1,5 @@
-# trial
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Budget Tracking App Sept ’23
+Learners’ Space | Web and Coding Club, IIT Bombay
+• Utilized Flutter SDK (Google’s UI Toolkit) in conjunction with Android Studio and Dart programming
+language
+• Successfully developed both back-end and the front-end of a Budget Tracking App with in-app analysis
